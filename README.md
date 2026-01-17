@@ -723,7 +723,7 @@ in the Software without restriction...
 - **GitHub**: [@Harshanandhan](https://github.com/Harshanandhan)
 - **Issues**: [Report Bug](https://github.com/Harshanandhan/DividendToken/issues)
 - **Discussions**: [Join Discussion](https://github.com/Harshanandhan/DividendToken/discussions)
-- **Email**: your.email@example.com
+- **Email**: harshanandhanreddy820@gmail.com
 
 ---
 
